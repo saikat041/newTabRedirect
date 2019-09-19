@@ -1,9 +1,15 @@
 {
     "manifest_version" : 2,
-    "name" : "Motivational New Tab",
+    "name" : "New Tab Redirect",
     "version" : "1.0",
     "icons" : {"128" : "res/icon.png"},
     "chrome_url_overrides" : {
-        "newtab" : "index.html"
-    }
+        "newtab" : "redirect.html"
+    },
+    "browser_action" : {
+        "default_popup" : "popup.html"
+    },
+    "permissions" : [
+        "storage"
+    ]
 }
