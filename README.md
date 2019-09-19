@@ -1,4 +1,4 @@
-# newTabRedirect :
+## newTabRedirect :
 It allows you to override your new tab with any custom website.
 
 ## How to use this extension :
