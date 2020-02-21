@@ -5,7 +5,7 @@ It allows you to override your new tab with any custom website.
 * Clone this repo
 * Open chrome extensions from settings or open this link : chrome://extensions
 * Turn on the developer mode button in the top right corner of the page
-* Click on load unpaced button on top left corner and select the cloned folder
+* Click on load unpacked button on top left corner and select the cloned folder
 * You are done
 
 ## Screenshot :
